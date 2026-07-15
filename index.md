@@ -113,6 +113,6 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 
 | Name      | Organization | GitHub Username |  GitHub Portfolio Link    |      
 | ----------- | ----------- | ---------- | ---------- |
-| Nate Quarderer (Instructor)      | ESIIL; Earth Lab       | nquarder | [https://nquarder.github.io/](https://nquarder.github.io/) |
-| Lilly Jones (Instructor) | ESIIL; Earth Lab        | lijo8146  | [https://lijo8146.github.io/](https://lijo8146.github.io/) |
-| Amelie Davis (Participant)      | U.S. Air Force Academy | AmsPurdue |  [https://amspurdue.github.io/](https://amspurdue.github.io/)    |      
+| Nate Quarderer (instructor)      | ESIIL; Earth Lab       | nquarder | [https://nquarder.github.io/](https://nquarder.github.io/) |
+| Lilly Jones (instructor) | ESIIL; Earth Lab        | lijo8146  | [https://lijo8146.github.io/](https://lijo8146.github.io/) |
+| Sonita Singh (Researcher/Start-Up) | I-STARRT; Deep South Center for Enivornmental Justice  | OmshantiOm  | [https://github.com/Omshanti0m](https://github.com/Omshanti0m)
